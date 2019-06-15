@@ -19,7 +19,7 @@ class View extends React.Component {
 class Calculator extends React.Component {
   constructor(props) {
     super(props)
-    this.state = { value: "0" }
+    this.state = { value: "" }
     this.eventHandler = this.eventHandler.bind(this)
     this.eval = this.eval.bind(this)
     this.clear = this.clear.bind(this)
