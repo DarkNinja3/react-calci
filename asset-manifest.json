@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-calci/static/css/main.588f7cc3.chunk.css",
+    "main.js": "/react-calci/static/js/main.76578adf.chunk.js",
+    "main.js.map": "/react-calci/static/js/main.76578adf.chunk.js.map",
+    "runtime~main.js": "/react-calci/static/js/runtime~main.bd7e00f5.js",
+    "runtime~main.js.map": "/react-calci/static/js/runtime~main.bd7e00f5.js.map",
+    "static/js/2.0771dcc1.chunk.js": "/react-calci/static/js/2.0771dcc1.chunk.js",
+    "static/js/2.0771dcc1.chunk.js.map": "/react-calci/static/js/2.0771dcc1.chunk.js.map",
+    "index.html": "/react-calci/index.html",
+    "precache-manifest.6ec3259acaca90c3a8e0e00f91a5da54.js": "/react-calci/precache-manifest.6ec3259acaca90c3a8e0e00f91a5da54.js",
+    "service-worker.js": "/react-calci/service-worker.js",
+    "static/css/main.588f7cc3.chunk.css.map": "/react-calci/static/css/main.588f7cc3.chunk.css.map"
+  }
+}
