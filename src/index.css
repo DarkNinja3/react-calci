@@ -1,0 +1,120 @@
+body {
+  padding: 20px;
+  background: #222;
+}
+
+.numop {
+  /* border: solid #999 1px; */
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.zero {
+  /* border: solid #999 1px; */
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  display: flex;
+}
+
+.plus {
+  /* border: solid #999 1px; */
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  grid-column-start: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  display: flex;
+}
+
+.equals {
+  /* border: solid #999 1px; */
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  grid-column-start: 4;
+  grid-row-start: 4;
+  grid-row-end: 6;
+  display: flex;
+  background: #22af4b
+}
+
+.num-cont > div {
+  padding: 30px;
+}
+
+.num-cont {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: 88px 88px 88px 88px 88px; 
+  color: white;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+
+.ops {
+  background: #ee224a;
+}
+
+
+.ops:hover {
+  background: #222;
+}
+
+.ops:active {
+  background: #fadfad;
+  color: #222;
+}
+
+.nums {
+  background: #eee;
+  color: #555;
+}
+
+.nums:hover {
+  background: #222;
+  color: white;
+}
+
+.nums:active {
+  background: #fadfad;
+  color: #222;
+}
+
+.view {
+  height: 120.995px;
+  width: 335.999px;
+  display: flex;
+  color: white;
+  font-size: 60px;
+  overflow-x: scroll;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  scrollbar-width: none;
+  direction: rtl;
+  background: #5a5a5a;
+  padding-right: 16.7px; 
+  justify-content: right;
+  align-items: center;    
+}
+
+.calc {
+  width: 335.999px;
+  margin-left: auto;
+  margin-right: auto;
+  /* border: solid white 1px; */
+}
+
+.val-num { 
+  position: inherit;
+  display: flex;
+  justify-content: right;
+  align-content: center;
+}
