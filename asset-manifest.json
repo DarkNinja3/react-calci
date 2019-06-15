@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-calci/static/css/main.92132f42.chunk.css",
-    "main.js": "/react-calci/static/js/main.3d29f7b7.chunk.js",
-    "main.js.map": "/react-calci/static/js/main.3d29f7b7.chunk.js.map",
+    "main.css": "/react-calci/static/css/main.7c902d1f.chunk.css",
+    "main.js": "/react-calci/static/js/main.3dac4f36.chunk.js",
+    "main.js.map": "/react-calci/static/js/main.3dac4f36.chunk.js.map",
     "runtime~main.js": "/react-calci/static/js/runtime~main.bd7e00f5.js",
     "runtime~main.js.map": "/react-calci/static/js/runtime~main.bd7e00f5.js.map",
     "static/js/2.0771dcc1.chunk.js": "/react-calci/static/js/2.0771dcc1.chunk.js",
     "static/js/2.0771dcc1.chunk.js.map": "/react-calci/static/js/2.0771dcc1.chunk.js.map",
     "index.html": "/react-calci/index.html",
-    "precache-manifest.b214ef439c4f2486964a85eeca5a27e2.js": "/react-calci/precache-manifest.b214ef439c4f2486964a85eeca5a27e2.js",
+    "precache-manifest.40aad5ab2e58c41c02d8d8960f64f5c5.js": "/react-calci/precache-manifest.40aad5ab2e58c41c02d8d8960f64f5c5.js",
     "service-worker.js": "/react-calci/service-worker.js",
-    "static/css/main.92132f42.chunk.css.map": "/react-calci/static/css/main.92132f42.chunk.css.map"
+    "static/css/main.7c902d1f.chunk.css.map": "/react-calci/static/css/main.7c902d1f.chunk.css.map"
   }
 }
