@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-calci/static/css/main.9c31c6f4.chunk.css",
+    "main.css": "/react-calci/static/css/main.92132f42.chunk.css",
     "main.js": "/react-calci/static/js/main.3d29f7b7.chunk.js",
     "main.js.map": "/react-calci/static/js/main.3d29f7b7.chunk.js.map",
     "runtime~main.js": "/react-calci/static/js/runtime~main.bd7e00f5.js",
@@ -8,8 +8,8 @@
     "static/js/2.0771dcc1.chunk.js": "/react-calci/static/js/2.0771dcc1.chunk.js",
     "static/js/2.0771dcc1.chunk.js.map": "/react-calci/static/js/2.0771dcc1.chunk.js.map",
     "index.html": "/react-calci/index.html",
-    "precache-manifest.42a946f5fe071a748f67bd6e18d2eecb.js": "/react-calci/precache-manifest.42a946f5fe071a748f67bd6e18d2eecb.js",
+    "precache-manifest.b214ef439c4f2486964a85eeca5a27e2.js": "/react-calci/precache-manifest.b214ef439c4f2486964a85eeca5a27e2.js",
     "service-worker.js": "/react-calci/service-worker.js",
-    "static/css/main.9c31c6f4.chunk.css.map": "/react-calci/static/css/main.9c31c6f4.chunk.css.map"
+    "static/css/main.92132f42.chunk.css.map": "/react-calci/static/css/main.92132f42.chunk.css.map"
   }
 }
